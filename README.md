@@ -2,8 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning html
 - 📫 How to reach me luizzzdaniela@gmail.com
-- 😄 Pronouns: IDK
-- ⚡ Fun fact: gw gtawu apa apa, kebanyakan kode copas chatgpt
+- ⚡ Fun fact: aku masih esempe
 
 <!---
 LuizDaniela/LuizDaniela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
